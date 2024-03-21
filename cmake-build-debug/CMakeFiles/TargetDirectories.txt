@@ -1,0 +1,3 @@
+/mnt/c/Users/giaco/OneDrive - Politecnico di Milano/POLI/LEZIONI POLI 5 anno/-----ALTRO----/untitled/cmake-build-debug/CMakeFiles/untitled.dir
+/mnt/c/Users/giaco/OneDrive - Politecnico di Milano/POLI/LEZIONI POLI 5 anno/-----ALTRO----/untitled/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/giaco/OneDrive - Politecnico di Milano/POLI/LEZIONI POLI 5 anno/-----ALTRO----/untitled/cmake-build-debug/CMakeFiles/rebuild_cache.dir
